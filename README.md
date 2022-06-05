@@ -20,6 +20,6 @@ Ryan Funny
 <li>Click "Load unpacked"</li>
 <li>Select the folder with this project</li>
 <li>Enjoy</li>
-
+</ul>
 # Description
 This is a chrome extension that gives you a random digital mindfulness tip whenever you open it.
