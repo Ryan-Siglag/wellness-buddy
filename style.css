@@ -1,10 +1,10 @@
 @font-face {
     font-family: robotoThin;
-    src: url(Roboto-Thin.ttf);
+    src: url(/assets/fonts/Roboto-Thin.ttf);
 }
 @font-face {
     font-family: roboto;
-    src: url(Roboto-Regular.ttf);
+    src: url(/assets/fonts/Roboto-Regular.ttf);
 }
 
 body {
@@ -14,19 +14,23 @@ body {
 
 h2 {
     font-family: robotoThin;
-    text-align: center;
+    
 }
 h1{
-    font-family: roboto;
+    font-family: roboto; 
 }
 h2, h1 {
     color: yellow;
     text-align: center;
 }
 
+img{
+    width: 100px;
+    height: 100px;
+}
+
 .fact-container {
     display: flex;
     justify-content: space-between;
-    align-content: center;
-    height: 50px;
+    align-items: center;
 }

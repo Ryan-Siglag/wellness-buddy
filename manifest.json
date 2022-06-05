@@ -4,8 +4,9 @@
     "description": "How much time you should be on your computer",
     "manifest_version": 3,
     "author": "Alex, Julia, Ryan",
+    "icons" : {"64" : "/assets/buddies/wellnessbuddy1.png"},
     "action":{
         "default_popup": "popup.html",
-        "default_title": "Screen Time Terminator"
+        "default_title": "Wellness Buddy"
     }
 }
