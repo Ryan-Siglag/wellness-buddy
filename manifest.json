@@ -1,7 +1,7 @@
 {
     "name": "Wellness Buddy",
     "version": "1.0.0",
-    "description": "How much time you should be on your computer",
+    "description": "This is a chrome extension that gives you a random digital mindness tip whenever you open it.",
     "manifest_version": 3,
     "author": "Alex, Julia, Ryan",
     "icons" : {"64" : "/assets/buddies/wellnessbuddy1.png"},
