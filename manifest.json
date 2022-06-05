@@ -6,6 +6,6 @@
     "author": "Alex, Julia, Ryan",
     "action":{
         "default_popup": "index.html",
-        "default_title": "Screentime Terminator"
+        "default_title": "Screen Time Terminator"
     }
 }
