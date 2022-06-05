@@ -3,4 +3,4 @@
 Screen time terminator
 Bean pine germinator
 Lean lime germinator
-Real Fine generator
+Real fine generator
