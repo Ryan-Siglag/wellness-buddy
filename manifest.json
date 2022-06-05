@@ -5,7 +5,7 @@
     "manifest_version": 3,
     "author": "Alex, Julia, Ryan",
     "action":{
-        "default_popup": "index.html",
+        "default_popup": "popup.html",
         "default_title": "Screen Time Terminator"
     }
 }
