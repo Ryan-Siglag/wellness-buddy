@@ -1,15 +1,3 @@
-function delay(time) {
-    return new Promise(resolve => setTimeout(resolve, time));
-}
+var facts = ['a', 'b', 'c']
 
-async function timer() {
-    var time = 100
-
-    while (time > -1) {
-        document.getElementById('timer').innerHTML = time;
-        time = time-1
-        await delay(1000);
-    }
-}  
-
-timer();
+document.getElementById("fact").innerHTML = facts[Math.floor(Math.random() * facts.length)];
