@@ -22,4 +22,4 @@ Ryan Funny
 <li>Enjoy</li>
 
 # Description
-This is a chrome extension that gives you a random digital mindness tip whenever you open it.
+This is a chrome extension that gives you a random digital mindfulness tip whenever you open it.
