@@ -1,9 +1,9 @@
 # screen-time-terminator
 
 Screen time terminator
-<break>
+<br>
 Bean pine germinator
-<break>
+<br>
 Lean lime germinator
-<break>
+<br>
 Real fine generator
